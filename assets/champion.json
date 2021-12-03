@@ -1,0 +1,2068 @@
+[
+  {
+    "id": "Aatrox",
+    "image": "assets/champion/Aatrox.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [
+      {
+        "id": "Nasus",
+        "reasons": [
+          "higher early dmg",
+          "easy to poke bc nasus has no dash"
+        ]
+      }
+    ],
+    "counteredBy": [
+      {
+        "id": "Irelia",
+        "reasons": [
+          "many dashes to dodge aatrox q and w",
+          "w to block all dmg if cought out"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ahri",
+    "image": "assets/champion/Ahri.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Akali",
+    "image": "assets/champion/Akali.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Akshan",
+    "image": "assets/champion/Akshan.png",
+    "roles": [
+      "MID",
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Alistar",
+    "image": "assets/champion/Alistar.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Amumu",
+    "image": "assets/champion/Amumu.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "TANK",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Anivia",
+    "image": "assets/champion/Anivia.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Annie",
+    "image": "assets/champion/Annie.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Aphelios",
+    "image": "assets/champion/Aphelios.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ashe",
+    "image": "assets/champion/Ashe.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "AurelionSol",
+    "image": "assets/champion/AurelionSol.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Azir",
+    "image": "assets/champion/Azir.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Bard",
+    "image": "assets/champion/Bard.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Blitzcrank",
+    "image": "assets/champion/Blitzcrank.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Brand",
+    "image": "assets/champion/Brand.png",
+    "roles": [
+      "SUPPORT",
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Braum",
+    "image": "assets/champion/Braum.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Caitlyn",
+    "image": "assets/champion/Caitlyn.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Camille",
+    "image": "assets/champion/Camille.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Cassiopeia",
+    "image": "assets/champion/Cassiopeia.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Cho'gath",
+    "image": "assets/champion/Chogath.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "TANK",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Corki",
+    "image": "assets/champion/Corki.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Darius",
+    "image": "assets/champion/Darius.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Diana",
+    "image": "assets/champion/Diana.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Draven",
+    "image": "assets/champion/Draven.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Dr. Mundo",
+    "image": "assets/champion/DrMundo.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ekko",
+    "image": "assets/champion/Ekko.png",
+    "roles": [
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Elise",
+    "image": "assets/champion/Elise.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "MAGE",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Evelynn",
+    "image": "assets/champion/Evelynn.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ezreal",
+    "image": "assets/champion/Ezreal.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Fiddlesticks",
+    "image": "assets/champion/Fiddlesticks.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Fiora",
+    "image": "assets/champion/Fiora.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Fizz",
+    "image": "assets/champion/Fizz.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Galio",
+    "image": "assets/champion/Galio.png",
+    "roles": [
+      "MID",
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Gangplank",
+    "image": "assets/champion/Gangplank.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Caitlyn",
+    "image": "assets/champion/Caitlyn.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Garen",
+    "image": "assets/champion/Garen.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Gnar",
+    "image": "assets/champion/Gnar.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Gragas",
+    "image": "assets/champion/Gragas.png",
+    "roles": [
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "tags": [
+      "FIGHTER",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Graves",
+    "image": "assets/champion/Graves.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Gwen",
+    "image": "assets/champion/Gwen.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Hecarim",
+    "image": "assets/champion/Hecarim.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Heimerdinger",
+    "image": "assets/champion/Heimerdinger.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Illaoi",
+    "image": "assets/champion/Illaoi.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Irelia",
+    "image": "assets/champion/Irelia.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ivern",
+    "image": "assets/champion/Ivern.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Janna",
+    "image": "assets/champion/Janna.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Jarvan IV.",
+    "image": "assets/champion/JarvanIV.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Jax",
+    "image": "assets/champion/Jax.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Jayce",
+    "image": "assets/champion/Jayce.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Jhin",
+    "image": "assets/champion/Jhin.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Jinx",
+    "image": "assets/champion/Jinx.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kai'sa",
+    "image": "assets/champion/Kaisa.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kalista",
+    "image": "assets/champion/Kalista.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Karma",
+    "image": "assets/champion/Karma.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Karthus",
+    "image": "assets/champion/Karthus.png",
+    "roles": [
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kassadin",
+    "image": "assets/champion/Kassadin.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Katarina",
+    "image": "assets/champion/Katarina.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kayle",
+    "image": "assets/champion/Kayle.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kayn",
+    "image": "assets/champion/Kayn.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kennen",
+    "image": "assets/champion/Kennen.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "MAGE",
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kha'Zix",
+    "image": "assets/champion/Khazix.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kindred",
+    "image": "assets/champion/Kindred.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kled",
+    "image": "assets/champion/Kled.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Kog'Maw",
+    "image": "assets/champion/KogMaw.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "LeBlanc",
+    "image": "assets/champion/Leblanc.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Lee Sin",
+    "image": "assets/champion/LeeSin.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Leona",
+    "image": "assets/champion/Leona.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Lillia",
+    "image": "assets/champion/Lillia.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Lissandra",
+    "image": "assets/champion/Lissandra.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Lucian",
+    "image": "assets/champion/Lucian.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Lulu",
+    "image": "assets/champion/Lulu.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Lux",
+    "image": "assets/champion/Lux.png",
+    "roles": [
+      "MID",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Malphite",
+    "image": "assets/champion/Malphite.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Malzahar",
+    "image": "assets/champion/Malzahar.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Maokai",
+    "image": "assets/champion/Maokai.png",
+    "roles": [
+      "TOP",
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Master Yi",
+    "image": "assets/champion/MasterYi.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Miss Fortune",
+    "image": "assets/champion/MissFortune.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Mordekaiser",
+    "image": "assets/champion/Mordekaiser.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Morgana",
+    "image": "assets/champion/Morgana.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Nami",
+    "image": "assets/champion/Nami.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Nasus",
+    "image": "assets/champion/Nasus.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Nautilus",
+    "image": "assets/champion/Nautilus.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Neeko",
+    "image": "assets/champion/Neeko.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Nidalee",
+    "image": "assets/champion/Nidalee.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Nocturne",
+    "image": "assets/champion/Nocturne.png",
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Nunu",
+    "image": "assets/champion/Nunu.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Olaf",
+    "image": "assets/champion/Olaf.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Orianna",
+    "image": "assets/champion/Orianna.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ornn",
+    "image": "assets/champion/Ornn.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Pantheon",
+    "image": "assets/champion/Pantheon.png",
+    "roles": [
+      "TOP",
+      "SUPPORT"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Poppy",
+    "image": "assets/champion/Poppy.png",
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Pyke",
+    "image": "assets/champion/Pyke.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Qiyana",
+    "image": "assets/champion/Qiyana.png",
+    "roles": [
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Quinn",
+    "image": "assets/champion/Quinn.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Rakan",
+    "image": "assets/champion/Rakan.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Rammus",
+    "image": "assets/champion/Rammus.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Rek'Sai",
+    "image": "assets/champion/RekSai.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Rell",
+    "image": "assets/champion/Rell.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Renekton",
+    "image": "assets/champion/Renekton.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Rengar",
+    "image": "assets/champion/Rengar.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Riven",
+    "image": "assets/champion/Riven.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Rumble",
+    "image": "assets/champion/Rumble.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ryze",
+    "image": "assets/champion/Ryze.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Samira",
+    "image": "assets/champion/Samira.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Sejuani",
+    "image": "assets/champion/Sejuani.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Senna",
+    "image": "assets/champion/Senna.png",
+    "roles": [
+      "BOTTOM",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Seraphine",
+    "image": "assets/champion/Seraphine.png",
+    "roles": [
+      "MID",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Sett",
+    "image": "assets/champion/Sett.png",
+    "roles": [
+      "TOP",
+      "SUPPORT"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Shaco",
+    "image": "assets/champion/Shaco.png",
+    "roles": [
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "tags": [
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Shen",
+    "image": "assets/champion/Shen.png",
+    "roles": [
+      "TOP",
+      "SUPPORT"
+    ],
+    "tags": [
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Shyvana",
+    "image": "assets/champion/Shyvana.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Singed",
+    "image": "assets/champion/Singed.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Sion",
+    "image": "assets/champion/Sion.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Sivir",
+    "image": "assets/champion/Sivir.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Skarner",
+    "image": "assets/champion/Skarner.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Sona",
+    "image": "assets/champion/Sona.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Soraka",
+    "image": "assets/champion/Soraka.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Swain",
+    "image": "assets/champion/Swain.png",
+    "roles": [
+      "MID",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Syndra",
+    "image": "assets/champion/Syndra.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Tahm Kench",
+    "image": "assets/champion/TahmKench.png",
+    "roles": [
+      "TOP",
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Taliyah",
+    "image": "assets/champion/Taliyah.png",
+    "roles": [
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Talon",
+    "image": "assets/champion/Talon.png",
+    "roles": [
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Taric",
+    "image": "assets/champion/Taric.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Teemo",
+    "image": "assets/champion/Teemo.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Thresh",
+    "image": "assets/champion/Thresh.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Tristana",
+    "image": "assets/champion/Tristana.png",
+    "roles": [
+      "MID",
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Trundle",
+    "image": "assets/champion/Trundle.png",
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Tryndamere",
+    "image": "assets/champion/Tryndamere.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Twisted Fate",
+    "image": "assets/champion/TwistedFate.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Twitch",
+    "image": "assets/champion/Twitch.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Udyr",
+    "image": "assets/champion/Udyr.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Urgot",
+    "image": "assets/champion/Urgot.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Varus",
+    "image": "assets/champion/Varus.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Vayne",
+    "image": "assets/champion/Vayne.png",
+    "roles": [
+      "TOP",
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Veigar",
+    "image": "assets/champion/Veigar.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Vel'koz",
+    "image": "assets/champion/VelKoz.png",
+    "roles": [
+      "MID",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Vex",
+    "image": "assets/champion/Vex.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Vi",
+    "image": "assets/champion/Vi.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Viego",
+    "image": "assets/champion/Viego.png",
+    "roles": [
+      "JUNGLE",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Viktor",
+    "image": "assets/champion/Viktor.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Vladimir",
+    "image": "assets/champion/Vladimir.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Volibear",
+    "image": "assets/champion/Volibear.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Warwick",
+    "image": "assets/champion/Warwick.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Wukong",
+    "image": "assets/champion/Wukong.png",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Xayah",
+    "image": "assets/champion/Xayah.png",
+    "roles": [
+      "BOTTOM"
+    ],
+    "tags": [
+      "MARKSMAN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Xerath",
+    "image": "assets/champion/Xerath.png",
+    "roles": [
+      "MID",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Xin Zhao",
+    "image": "assets/champion/XinZhao.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Yasuo",
+    "image": "assets/champion/Yasuo.png",
+    "roles": [
+      "TOP",
+      "MID",
+      "BOTTOM"
+    ],
+    "tags": [
+      "FIGHTER",
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Yone",
+    "image": "assets/champion/Yone.png",
+    "roles": [
+      "TOP",
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Yorick",
+    "image": "assets/champion/Yorick.png",
+    "roles": [
+      "TOP"
+    ],
+    "tags": [
+      "FIGHTER",
+      "TANK"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Yuumi",
+    "image": "assets/champion/Yuumi.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Zac",
+    "image": "assets/champion/Zac.png",
+    "roles": [
+      "JUNGLE"
+    ],
+    "tags": [
+      "TANK",
+      "FIGHTER"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Zed",
+    "image": "assets/champion/Zed.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "ASSASSIN"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Ziggs",
+    "image": "assets/champion/Ziggs.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Zilean",
+    "image": "assets/champion/Zilean.png",
+    "roles": [
+      "SUPPORT"
+    ],
+    "tags": [
+      "SUPPORT",
+      "MAGE"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Zoe",
+    "image": "assets/champion/Zoe.png",
+    "roles": [
+      "MID"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  },
+  {
+    "id": "Zyra",
+    "image": "assets/champion/Zyra.png",
+    "roles": [
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "tags": [
+      "MAGE",
+      "SUPPORT"
+    ],
+    "counters": [],
+    "counteredBy": []
+  }
+]
