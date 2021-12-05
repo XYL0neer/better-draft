@@ -9,10 +9,8 @@ class ChampionService {
     try {
       String data = await rootBundle.loadString("champion.json");
       final List<dynamic> jsonResult = jsonDecode(data);
-      championList = jsonResult.map((entry) {
-        print(entry["id"]);
-        return Champion.fromJson(entry);
-      }).toList();
+      championList =
+          jsonResult.map((entry) => Champion.fromJson(entry)).toList();
     } catch (error) {
       print(error);
     }

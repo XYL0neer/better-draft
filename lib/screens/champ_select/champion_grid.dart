@@ -11,6 +11,7 @@ class ChampionGrid extends StatefulWidget {
 
 class _ChampionGridState extends State<ChampionGrid> {
   ChampionService championService = ChampionService();
+  int _selectedChampion = -1;
 
   @override
   Widget build(BuildContext context) {
@@ -20,12 +21,22 @@ class _ChampionGridState extends State<ChampionGrid> {
         if (snapshot.hasData) {
           List<Champion> champions = snapshot.data!;
           List<Widget> championImages = <Widget>[];
-          for (var champion in champions) {
+          for (var index = 0; index < champions.length; index++) {
             championImages.add(
-              Image(
-                image: AssetImage(champion.image),
-                height: 64.0,
-                width: 64.0,
+              RawMaterialButton(
+                mouseCursor: MaterialStateMouseCursor.clickable,
+                onPressed: () => setState(() {
+                  _selectedChampion = index;
+                }),
+                child: Image(
+                  image: AssetImage(champions[index].image),
+                ),
+                shape: Border.all(
+                  width: 4,
+                  color: _selectedChampion == index
+                      ? Colors.yellowAccent
+                      : Colors.black54,
+                ),
               ),
             );
           }
