@@ -1,6 +1,6 @@
-import 'package:better_draft/models/champion.dart';
-import 'package:better_draft/services/champion_service.dart';
 import 'package:flutter/material.dart';
+import 'package:better_draft/models/champion/champion.dart';
+import 'package:better_draft/services/champion_service.dart';
 
 class ChampionGrid extends StatefulWidget {
   const ChampionGrid({Key? key}) : super(key: key);

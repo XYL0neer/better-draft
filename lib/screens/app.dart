@@ -1,4 +1,4 @@
-import 'package:better_draft/screens/champ_select/champion_grid.dart';
+import 'package:better_draft/screens/champ_select/champ_select.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
@@ -8,14 +8,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'BETTER DRAFT',
+      initialRoute: '/champ-select',
+      routes: {
+        '/champ-select': (context) => const ChampSelect(),
+      },
       theme: ThemeData(
         primarySwatch: Colors.blue,
-      ),
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('BETTER DRAFT'),
-        ),
-        body: const ChampionGrid(),
       ),
     );
   }

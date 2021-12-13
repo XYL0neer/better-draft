@@ -1,6 +1,6 @@
-import 'package:better_draft/models/counter.dart';
-import 'package:better_draft/models/roles.dart';
-import 'package:better_draft/models/tags.dart';
+import 'package:better_draft/models/champion/counter.dart';
+import 'package:better_draft/models/champion/roles.dart';
+import 'package:better_draft/models/champion/tags.dart';
 
 class Champion {
   String id;
